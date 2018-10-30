@@ -27,19 +27,18 @@
   "homepage": "https://github.com/DefinitelyNotRobots/cryptokeeper-server#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
-    "chance": "^1.0.16",
     "dotenv": "^6.1.0",
-    "eslint": "^5.7.0",
     "express": "^4.16.4",
     "jsonwebtoken": "^8.3.0",
-    "mongo": "^0.1.0",
     "mongoose": "^5.3.4",
-    "morgan": "^1.9.1",
-    "sinon": "^7.1.0",
-    "supertest": "^3.3.0"
+    "morgan": "^1.9.1"
   },
   "devDependencies": {
     "jest": "^23.6.0",
-    "nodemon": "^1.18.4"
+    "nodemon": "^1.18.4",
+    "eslint": "^5.7.0",
+    "sinon": "^7.1.0",
+    "supertest": "^3.3.0",
+    "chance": "^1.0.16"
   }
 }
